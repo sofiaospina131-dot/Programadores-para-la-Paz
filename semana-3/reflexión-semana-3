@@ -1,0 +1,9 @@
+El uso de sistemas de control de versiones como Git es indispensable en el desarrollo de software
+moderno porque actúa como el historial clínico y la red de seguridad de un proyecto. Mantener un
+registro de cambios detallado permite a los desarrolladores rastrear con precisión qué se modificó,
+cuándo se hizo y quién fue el responsable, facilitando la detección y corrección de errores.
+Además, Git ofrece una estructura organizada para el trabajo en equipo mediante ramas, evitando
+que el código de un programador sobrescriba el de otro y permitiendo experimentos seguros.
+En caso de fallos críticos en producción, este registro hace posible revertir el software a un
+estado estable anterior en cuestión de segundos, minimizando pérdidas y garantizando la continuidad.
+En definitiva, Git transforma el caos de gestionar código en un proceso auditable, seguro y eficiente.

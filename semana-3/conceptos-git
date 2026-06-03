@@ -1,0 +1,3 @@
+REPOSITORIO: Almacena todos los archivos del proyecto (código, imágenes, textos) y, lo más importante, guarda todo el historial de cambios que ha sufrido ese proyecto desde el primer día.
+Commit Cada vez que haces un avance importante en tu código (por ejemplo, creas un archivo nuevo o arreglas un error), haces un commit. Este guarda el estado exacto de tus archivos en ese instante
+Push Cuando trabajas en tu computadora, haces muchos commits (guardados locales). Tu computadora sabe lo que has hecho, pero GitHub (el repositorio remoto) aún no. Al hacer un Push (empujar), envías todas esas "fotos" e historial desde tu máquina hacia la nube. 
