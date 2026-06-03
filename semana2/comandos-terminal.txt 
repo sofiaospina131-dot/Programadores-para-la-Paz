@@ -1,0 +1,5 @@
+cd semana2
+   touch preguntas-semana2.txt comandos-terminal.txt reflexion-semana2.txt
+   nano comandos-terminal.txt
+   nano preguntas-semana2.txt
+   nano reflexion-semana2.txt
